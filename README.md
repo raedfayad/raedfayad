@@ -1,4 +1,4 @@
-[![MasterHead](header.png)](https://github.com/raedfayad)
+[![MasterHead](banner.png)](https://github.com/raedfayad)
 
 
 ## My GitHub Stats 📊
