@@ -1,7 +1,7 @@
 [![MasterHead](header.png)](https://github.com/raedfayad)
 
 
-
+## My GitHub Stats 📊
 
 ![Raed's GitHub stats](https://github-readme-stats.vercel.app/api?username=raedfayad&show_icons=true&hide_rank=true)
 
