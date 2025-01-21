@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+
+![Raed's GitHub stats](https://github-readme-stats.vercel.app/api?username=raedfayad&show_icons=true&hide_rank=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raedfayad&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **raedfayad/raedfayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
